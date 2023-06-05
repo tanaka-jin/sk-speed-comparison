@@ -1,0 +1,12 @@
+*.log
+data/rows.csv
+result/*.txt
+result/*_v*.csv
+graph/*.jpg
+graph/*.pdf
+graph/*_lin.html
+venv/
+run_.py
+.vscode/
+catboost_info/
+for_article/
